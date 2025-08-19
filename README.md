@@ -1,5 +1,7 @@
-# ShuttlePRO
+Note to self. This other solution uses a json config: https://github.com/patomation/shuttle-go
 
+
+# ShuttlePRO
 
 ![ShuttlePROv2](https://github.com/patomation/ShuttlePRO/blob/master/shuttle-pro-v2.png)
 
