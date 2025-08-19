@@ -1,7 +1,7 @@
 # ShuttlePRO
 
 
-![ShuttlePROv2](https://raw.githubusercontent.com/patomation/ShuttlePRO/shuttle-pro-v2.png)
+![ShuttlePROv2](https://github.com/patomation/ShuttlePRO/blob/master/shuttle-pro-v2.png)
 
 
 ## Quick Start
